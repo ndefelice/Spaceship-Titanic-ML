@@ -1,2 +1,2 @@
-# Spaceship-Titanic-Machine-Learning
-My final submission for the Spaceship Titanic competition on Kaggle.
+# Spaceship Titanic Machine Learning Project
+This is my first ever machine learning project! 
